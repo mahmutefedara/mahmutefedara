@@ -18,6 +18,6 @@ Okuyor, deneyimliyor ve düşünüyorum.
 
 ## İletişim
 - **LinkedIn:** https://www.linkedin.com/in/mahmutefedara/
-- **Kişisel Web Sitesi:** https://www.efedara.com
+- **Kişisel Web Sitesi:** http://www.efedara.com
 
 ---
