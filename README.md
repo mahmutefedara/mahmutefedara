@@ -1,4 +1,4 @@
-# Merhaba, ben Mahmut Efe Dara
+# 👋 Merhaba, ben Mahmut Efe Dara
 
 Okuyor, deneyimliyor ve düşünüyorum. 
 ---
