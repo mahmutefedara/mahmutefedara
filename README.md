@@ -8,6 +8,8 @@ Okuyor, deneyimliyor ve düşünüyorum.
 - Algoritmalar 
 - Ses Teknolojisi
 - Yapay Zeka
+- Kriptoloji
+- Siber Güvenlik
 
 ---
 
